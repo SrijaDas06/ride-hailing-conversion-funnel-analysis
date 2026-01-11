@@ -47,8 +47,6 @@ The objective is to identify **drop-off points**, **cancellation drivers**, and 
 
 ---
 
-📁 Power BI file: `namma-yatri-funnel-dashboard.pbix`
-
 ---
 
 ## 📁 Dataset Note
