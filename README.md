@@ -47,14 +47,6 @@ The objective is to identify **drop-off points**, **cancellation drivers**, and 
 
 ---
 
-## 📊 Power BI Dashboard Preview
-
-### Overall Funnel & Segmented Analysis
-![Dashboard Overview](assets/dashboard_overview.png)
-
-### Funnel Conversion Drop Analysis
-![Funnel Analysis](assets/funnel_analysis.png)
-
 📁 Power BI file: `namma-yatri-funnel-dashboard.pbix`
 
 ---
